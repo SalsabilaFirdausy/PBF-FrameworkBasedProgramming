@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    background-color: lightskyblue;
+    color: #000;
+}
+a {
+    color: var(--nav-primary-color);
+    text-decoration: none;
+}
+a:hover {
+    color: #000;
+}
+ul {
+    list-style: none;
+}
+img {
+    width: 10000%;
+    height: 10000%;
+    align-self: center;
+}
+  /* Utilities */
+.container {
+    max-width: 800px;
+    overflow: hidden;
+}
+
+.navbar {
+    align-items: center;
+    width: 100%;
+    opacity: 0.9;
+    margin-bottom: 2rem;
+}
+.navbar ul {
+    display: flex;
+}
+.navbar a {
+    color: var(--nav-text-color);
+    padding: 0.45rem;
+    margin: 0 0.25rem;
+}
+.navbar a:hover {
+    color: var(--nav-a-hov-color);
+}

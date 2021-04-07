@@ -1,0 +1,22 @@
+{
+    "produk": [
+    {
+        "id": 1,
+        "nama": "Kirin Electric Iron | KEI-340S HEMLOCK",
+        "harga": 185000,
+        "gambar": "https://s3.bukalapak.com/img/84006311101/large/data.png"
+    },
+    {
+        "id": 2,
+        "nama": "Kirin Ekectric Iron | KEI-500ST",
+        "harga": 180500,
+        "gambar": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/irons-steamers/Kirin_KEI_500ST/Kirin_KEI_500ST_L_1.jpg"
+    },
+    {
+        "id": 3,
+        "nama": "Kirin Ekectric Iron | KEI-340N MAGENTA",
+        "harga": 145000,
+        "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium/109/MTA-9745939/kirin_kirin_electric_iron_-kei-340n_full01_po0wmq9u.jpg"
+    }
+    ]
+}
