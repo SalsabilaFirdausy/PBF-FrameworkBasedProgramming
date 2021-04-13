@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": "1841720036",
+      "id": 1618326773888,
+      "nama": "Salsabila Firdausy",
+      "alamat": "Permata Jingga",
+      "hp": "082334249009",
+      "angkatan": "2018",
+      "status": "Aktif"
+    },
+    {
+      "NIM": "1841720000",
+      "id": 1618327959599,
+      "nama": "Arrayyan Zaky",
+      "alamat": "Permata Jingga",
+      "hp": "08234423233",
+      "angkatan": "2019",
+      "status": "Aktif"
+    }
+  ]
+}
