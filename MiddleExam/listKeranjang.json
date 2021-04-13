@@ -1,4 +1,22 @@
 {
   "keranjang": [
+    {
+      "id": 1,
+      "nama": "Kirin Electric Iron | KEI-340S HEMLOCK",
+      "harga": 185000,
+      "qty": 1
+    },
+    {
+      "id": 2,
+      "nama": "Kirin Ekectric Iron | KEI-500ST",
+      "harga": 180500,
+      "qty": 1
+    },
+    {
+      "id": 3,
+      "nama": "Kirin Ekectric Iron | KEI-340N MAGENTA",
+      "harga": 145000,
+      "qty": 1
+    }
   ]
 }

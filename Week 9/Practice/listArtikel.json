@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "userId": 1,
+      "id": 1618232457500,
+      "title": "Acara Senin ",
+      "body": "satu dua tiga"
+    },
+    {
+      "userId": 1,
+      "id": 1618232484663,
+      "title": "Acara Selasa",
+      "body": "tiga empat lima"
+    },
+    {
+      "userId": 1,
+      "id": 1618234451618,
+      "title": "Acara Rabu",
+      "body": "enam tujuh delapan"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
