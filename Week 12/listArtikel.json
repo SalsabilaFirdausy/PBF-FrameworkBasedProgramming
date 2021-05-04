@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1618232457500,
+      "title": "Acara Senin ",
+      "body": "satu dua tiga"
+    },
+    {
+      "userId": 1,
+      "id": 1618324052505,
+      "title": "Senin",
+      "body": "pada hari senin"
+    },
+    {
+      "userId": 1,
+      "id": 1618359621190,
+      "title": "Selasa",
+      "body": "pada hari selasa"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
